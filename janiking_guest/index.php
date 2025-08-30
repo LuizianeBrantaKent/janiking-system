@@ -1,7 +1,7 @@
 <?php include 'includes/guest_header.php'; ?>
 <?php include 'includes/guest_navbar.php'; ?>
 
-    <!-- Hero Section Ms Branta-->
+    <!-- Hero Section Ms Branta at 2:11 pm-->
     <section class="hero-section text-center">
         <div class="container">
             <h1 class="display-4 font-weight-bold mb-4">Build Your Future with JaniKing</h1>
