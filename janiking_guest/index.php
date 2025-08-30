@@ -10,7 +10,7 @@
         </div>
     </section>
 
-    <!-- Why Choose JaniKing -->
+    <!-- Why Choose JaniKing Luiziane-->
     <section class="section-padding">
         <div class="container">
             <div class="row justify-content-center">

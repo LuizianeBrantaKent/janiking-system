@@ -1,5 +1,6 @@
 <?php
 // ====== PAGE CONFIG ======
+// testing 
 $pageTitle = "Dashboard"; // change on each page
 ?>
 <!doctype html>
@@ -57,7 +58,7 @@ $pageTitle = "Dashboard"; // change on each page
 
 <div class="jk-layout">
 
-  <!-- Sidebar -->
+  <!-- Sidebar  testing-->
   <aside id="sidebar" class="jk-sidebar">
     <div class="p-3 border-bottom">
       <a href="#" class="d-flex align-items-center gap-2 text-decoration-none">
