@@ -1,7 +1,7 @@
 <?php include 'includes/guest_header.php'; ?>
 <?php include 'includes/guest_navbar.php'; ?>
 
-    <!-- Hero Section -->
+    <!-- Hero Section Again Mehedi Changed and added his name -->
     <section class="hero-section text-center">
         <div class="container">
             <h1 class="display-4 font-weight-bold mb-4">Build Your Future with JaniKing</h1>
