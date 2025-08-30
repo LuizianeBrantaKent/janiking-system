@@ -10,7 +10,7 @@
         </div>
     </section>
 
-    <!-- Why Choose JaniKing test -->
+    <!-- Why Choose JaniKing test MEHEDI -->
     <section class="section-padding">
         <div class="container">
             <div class="row justify-content-center">
