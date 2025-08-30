@@ -1,7 +1,7 @@
 <?php include 'includes/guest_header.php'; ?>
 <?php include 'includes/guest_navbar.php'; ?>
 
-    <!-- Hero Section Changed by Mehedi at 1:09 pm Week 7 -->
+    <!-- Hero Section -->
     <section class="hero-section text-center">
         <div class="container">
             <h1 class="display-4 font-weight-bold mb-4">Build Your Future with JaniKing</h1>
@@ -10,7 +10,7 @@
         </div>
     </section>
 
-    <!-- Why Choose JaniKing test MEHEDI -->
+    <!-- Why Choose JaniKing -->
     <section class="section-padding">
         <div class="container">
             <div class="row justify-content-center">
